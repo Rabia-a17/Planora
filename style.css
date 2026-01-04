@@ -10,6 +10,7 @@ background-repeat: repeat;
     margin: 0;
     padding: 0;
 }
+/* Commit 3: Updated styling */
 
 header {
     /* Navy/Dark Blue Header */
@@ -114,3 +115,4 @@ button:hover {
 footer p {
     margin: 0;
 }
+
